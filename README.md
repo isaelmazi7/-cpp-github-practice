@@ -1,5 +1,3 @@
-# -cpp-github-practice
- My first C++ GitHub project
 #include <iostream>
 using namespace std;
 int main() {
